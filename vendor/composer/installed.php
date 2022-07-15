@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '2867545c3ad4917c5588e2a9340d29f0fdc2e5f1',
+        'reference' => '7d26e6ac4a29dac64e102002f6a4c0798cb3ea89',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '2867545c3ad4917c5588e2a9340d29f0fdc2e5f1',
+            'reference' => '7d26e6ac4a29dac64e102002f6a4c0798cb3ea89',
             'dev_requirement' => false,
         ),
         'components/jquery' => array(
@@ -26,6 +26,15 @@
             'install_path' => __DIR__ . '/../components/jquery',
             'aliases' => array(),
             'reference' => '6cf38ee1fd04b6adf8e7dda161283aa35be818c3',
+            'dev_requirement' => false,
+        ),
+        'igorescobar/jquery-mask-plugin' => array(
+            'pretty_version' => 'v1.14.1',
+            'version' => '1.14.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../igorescobar/jquery-mask-plugin',
+            'aliases' => array(),
+            'reference' => '678a7df1f0bb275ce53f365b91af99d86850978d',
             'dev_requirement' => false,
         ),
         'twbs/bootstrap' => array(

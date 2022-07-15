@@ -1,6 +1,7 @@
 {
     "require": {
         "components/jquery": "^3.6",
-        "twbs/bootstrap": "v5.2.0-beta1"
+        "twbs/bootstrap": "v5.2.0-beta1",
+        "igorescobar/jquery-mask-plugin": "^1.14"
     }
 }
